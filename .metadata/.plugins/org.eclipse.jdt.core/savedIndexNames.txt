@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\dylbu\Documents\workspace4830-AOP-Burton\.metadata\.plugins\org.eclipse.jdt.core
+3680143812.index
